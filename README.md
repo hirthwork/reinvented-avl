@@ -8,6 +8,7 @@ that this code works correct. Use at your own risk.
 
 Overview
 --------
-Simple AVL tree implementation. Provides find and insert methods. See avl.h
-comments for details. All usage examples can be found in test.c
+Simple AVL tree implementation. Provides find and insert methods. See
+[avl.h](avl.h) comments for details. All usage examples can be found in
+[test.c](test.c).
 
